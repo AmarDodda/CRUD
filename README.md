@@ -1,6 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application for managing user data. It allows users to perform CRUD (Create, Read, Update, Delete) operations on user records. The app fetches user data from a mock API provided by JSONPlaceholder(https://jsonplaceholder.typicode.com/users) and allows users to add, edit, and delete user records.
+
+Features:
+-> View a list of existing users fetched from the mock API.
+-> Add new users with their name, email, and username.
+-> Edit existing users' details.
+-> Delete users from the list.
 
 Currently, two official plugins are available:
 
